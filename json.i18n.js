@@ -104,7 +104,7 @@ var i18n = (function() {
     if (typeof obj === 'string') {
       return obj;
     } else {
-      return var;
+      return key;
     }
   }
 
